@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>testkey</Key><BucketName>testbucket</BucketName><Resource>/testbucket/testkey</Resource><RequestId>15CD1C0DB884F49C</RequestId><HostId>2d48f3d0-184c-47cc-b755-66b47bedda0d</HostId></Error>
